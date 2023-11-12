@@ -1,1 +1,1 @@
-AWS architecture using Terraform as iac.
+AWS architecture using Terraform as iac platform.
